@@ -54,7 +54,7 @@ This contract performs the arbitrage trading using the prices obtained from the 
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/your-username/EnergyArbitrage.git
+   git clone https://github.com/xfactor20/EnergyArbitrage.git
    cd EnergyArbitrage
    ```
 
